@@ -1,21 +1,11 @@
-package com.mycompany.app;
-
-/**
- * Hello world!
- */
-public class App
-{
-
-    private final String message = "Hello World!";
-
-    public App() {}
-
-    public static void main(String[] args) {
-        System.out.println(new App().getMessage());
-    }
-
-    private final String getMessage() {
-        return message;
-    }
-
-}
+/* This is a simple Java program. 
+FileName : "HelloWorld.java". */
+class HelloWorld 
+{ 
+	// Your program begins with a call to main(). 
+	// Prints "Hello, World" to the terminal window. 
+	public static void main(String args[]) 
+	{ 
+		System.out.println("Hello, World"); 
+	} 
+} 
