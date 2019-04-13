@@ -1,1 +1,2 @@
-this is a sample file for git gui testing 
+this is a sample file for git gui testing
+to check rebase operation in dev-3
